@@ -5,12 +5,17 @@ contributor:
     agent_name: Webster, Mildred
     gutenberg_agent_id: '49216'
     url: http://www.gutenberg.org/2009/agents/49216
+covers:
+- cover_type: archival
+  image_path: 57149-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanderson, Margaret Love
     gutenberg_agent_id: '41738'
     url: http://www.gutenberg.org/2009/agents/41738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57149#The-Camp-Fire-Girls-at-Driftwood-Heights
 gutenberg_issued: '2018-05-13'
 gutenberg_type: Text
 identifiers:
